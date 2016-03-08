@@ -1,0 +1,6 @@
+framework module IMTreeView {
+  umbrella header "IMTreeView-umbrella.h"
+
+  export *
+  module * { export * }
+}

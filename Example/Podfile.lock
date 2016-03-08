@@ -1,0 +1,14 @@
+PODS:
+  - IMTreeView (0.1.0)
+
+DEPENDENCIES:
+  - IMTreeView (from `../`)
+
+EXTERNAL SOURCES:
+  IMTreeView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  IMTreeView: daed2aa6bd72f5d76eeebc94c8ed414160cb566c
+
+COCOAPODS: 0.39.0
