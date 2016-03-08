@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'IMTreeView_Example', :exclusive => true do
+  pod 'IMTreeView', :path => '../'
+end
+
+target 'IMTreeView_Tests', :exclusive => true do
+  pod 'IMTreeView', :path => '../'
+
+  
+end
